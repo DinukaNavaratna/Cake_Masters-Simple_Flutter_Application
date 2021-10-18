@@ -12,7 +12,7 @@ REST API communication through HTTP requests<br>
 
 ## Technologies
 Dart (Flutter)<br>
-Firestore, Firebase Storage<br>
+Firestore, Firebase Storage (Update the google-services.json file in 'android/app/'<br>
 Python for image comparision<br>
 
 ! Python image comparision codebase is not included in this repo.
