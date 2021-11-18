@@ -1,4 +1,4 @@
-# Cake_Masters-Simple-Flutter-App
+# Cake Masters - Simple Flutter Application
  This is a simple flutter application targetting Android OS, developed for a friend of mine covering his requirements.<br>
  The main purpose of this application was to share Cake recipes and users can upload an image of the cake they prepared by following the recipes given through the app. By comparing the uploaded image with the image given in the database, the user will be given a badge after calculating the score. <br><br>
  Please note that this was done within 48 hrs and that the codebase is not optimized for the best performance.
